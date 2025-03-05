@@ -133,7 +133,7 @@ namespace OdevTakipApp
         }
 
 
-
+        //
         private void btnKaydet_Click(object sender, EventArgs e)
         {
             string metin = JsonSerializer.Serialize(liste);
